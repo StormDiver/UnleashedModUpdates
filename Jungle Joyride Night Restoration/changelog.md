@@ -1,2 +1,2 @@
-## Jungle Joyride Night Restored V2.1
+## Jungle Joyride Night Restored v2.1
 - Added Server Support
